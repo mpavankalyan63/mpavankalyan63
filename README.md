@@ -43,7 +43,16 @@
 
 ### Research Assistant- Robotics Software Engineer | Dreams Lab, Arizona State University
 
+*__May 2024 - Present__*
+
 *  Enhanced system performance by integrating event cameras with traditional cameras, resulting in improved accuracy and efficiency in various robotic tasks
-*  **HDR SLAM**: Developed a High Dynamic Range SLAM system utilizing event cameras, intensity cameras, IMU sensors, improving localization and mapping capabilities in high dynamic scene areas by 30%.
+*  **HDR SLAM**: Developed a High Dynamic Range SLAM system utilizing event cameras, intensity cameras, and IMU sensors, improving localization and mapping capabilities in high dynamic scene areas by 30%.
 *  **Object Detection for ADAS**: Improved object detection accuracy for Advanced Driver Assistance Systems by 25% through the integration of event cameras and traditional cameras
-*  **Semantic Mapping with a moving sensor Rig**: Increased the accuracy and detail of semantic mapping by 40% by implementing event camera technology for moving sensor rigs
+*  **Semantic Mapping with a moving sensor Rig**: Increased the accuracy and detail of semantic mapping by 40% by implementing event camera technology for moving sensor rigs.
+
+### Graduate Teaching Aide | Department of Physics, Arizona State University
+
+*__Aug 2023 - Present__*
+
+* I teach Experimental Physics to undergraduate-level students, aiming to enhance their understanding of theoretical concepts by engaging them in hands-on experiments.
+* I facilitate interactive sessions wherein students articulate their queries, providing a platform for me to address and resolve their academic concerns effectively
