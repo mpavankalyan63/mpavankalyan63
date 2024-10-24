@@ -55,4 +55,6 @@
 *__Aug 2023 - Present__*
 
 * I teach Experimental Physics to undergraduate-level students, aiming to enhance their understanding of theoretical concepts by engaging them in hands-on experiments.
-* I facilitate interactive sessions wherein students articulate their queries, providing a platform for me to address and resolve their academic concerns effectively
+* I facilitate interactive sessions wherein students articulate their queries, providing a platform for me to address and resolve their academic concerns effectively.
+
+
