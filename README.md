@@ -22,3 +22,19 @@
 + 🤖 I am working on High Dynamic Range SLAM, a building SLAM algorithm that helps robots easily navigate high dynamic environments like the moon.
 
 * 👯  I’m looking forward to collaborating on innovative robotics projects and building a community that helps each other grow.
+
+## Interests and Niche 
+
+* Computer Science, Artificial Intelligence, Machine Learning, Reinforcement Learning, Deep Learning, Bayesian Learning.
+* Computer Vision, Perception in Robotics, SLAM, Motion Planning.
+* Programming, Objective Oriented Programming, Data Structures and Algorithms.
+* Mechanical Engineering, Finite Element Analysis, Computational Fluid Dynamics, Vehicle Dynamics
+* Aerospace Engineering, Orbital Mechanics
+
+## Skills
+
+| Programming | Python, C++, JavaScript, MATLAB |
+|-----:|-----------|
+|Frameworks|ROS, ROS2, TensorFlow, Pytorch,|
+|OS| Linux, Windows, iOS    |
+|Modeling and Analysis Software|CATIA, SolidWorks, Creo, AUTOCAD, ANSYS       |
