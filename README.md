@@ -38,3 +38,12 @@
 |Frameworks|ROS, ROS2, TensorFlow, Pytorch,|
 |OS| Linux, Windows, iOS    |
 |Modeling and Analysis Software|CATIA, SolidWorks, Creo, AUTOCAD, ANSYS       |
+
+## Work Experience
+
+### Research Assistant- Robotics Software Engineer | Dreams Lab, Arizona State University
+
+*  Enhanced system performance by integrating event cameras with traditional cameras, resulting in improved accuracy and efficiency in various robotic tasks
+*  **HDR SLAM**: Developed a High Dynamic Range SLAM system utilizing event cameras, intensity cameras, IMU sensors, improving localization and mapping capabilities in high dynamic scene areas by 30%.
+*  **Object Detection for ADAS**: Improved object detection accuracy for Advanced Driver Assistance Systems by 25% through the integration of event cameras and traditional cameras
+*  **Semantic Mapping with a moving sensor Rig**: Increased the accuracy and detail of semantic mapping by 40% by implementing event camera technology for moving sensor rigs
