@@ -33,7 +33,7 @@
 
 ## Skills
 
-| Programming | Python, C++, JavaScript, MATLAB |
+| Programming | Python, C++, JavaScript, HTML, CSS, MATLAB |
 |-----:|-----------|
 |Frameworks|ROS, ROS2, TensorFlow, Pytorch,|
 |OS| Linux, Windows, iOS    |
