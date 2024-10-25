@@ -112,6 +112,10 @@
 * Camera Intrinsic and extrinsic parameters were determined to establish the transformations between image pixel coordinates, camera coordinates and world coordinates to enable precise location determination of objects on game board, facilitating the cobot to pick and place the desired objects based on real-time video input from camera.
 * Developed a robust machine leaning model utilizing Computer Vision, TensorFlow, Keras, and Convolutional Neural Networks (CNN) to recognize English alphabet characters with 90% accuracy and decipher the game board.
 
+### Sign Language Detection
+
+*__Aug 2023 - December 2023__*
+
 ### Teach AI agents to play games using Reinforcement learning  
 
 *__Aug 2023 - Dec 2023__*
