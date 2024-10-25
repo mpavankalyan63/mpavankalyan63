@@ -41,7 +41,7 @@
 
 ## Work Experience
 
-### Research Assistant- Robotics Software Engineer | Dreams Lab, Arizona State University
+### Research Assistant- Robotics Software Engineer | _Dreams Lab, Arizona State University, USA_
 
 *__May 2024 - Present__*
 
@@ -50,14 +50,14 @@
 *  **Object Detection for ADAS**: Improved object detection accuracy for Advanced Driver Assistance Systems by 25% through the integration of event cameras and traditional cameras
 *  **Semantic Mapping with a moving sensor Rig**: Increased the accuracy and detail of semantic mapping by 40% by implementing event camera technology for moving sensor rigs.
 
-### Graduate Teaching Aide | Department of Physics, Arizona State University
+### Graduate Teaching Aide | _Department of Physics, Arizona State University, USA_
 
 *__Aug 2023 - Present__*
 
 * I teach Experimental Physics to undergraduate-level students, aiming to enhance their understanding of theoretical concepts by engaging them in hands-on experiments.
 * I facilitate interactive sessions wherein students articulate their queries, allowing me to address and resolve their academic concerns effectively.
 
-### Technical Head of Off-Road Racing Vehicle Manufacturing team | National Institute of Technology Warangal
+### Technical Head of Off-Road Racing Vehicle Manufacturing team | _National Institute of Technology Warangal, India_
 
 *__May 2018 - Jan 2020__*
 
