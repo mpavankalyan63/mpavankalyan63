@@ -94,13 +94,13 @@
 
 *__Aug 2023 - Dec 2023__*
 * Improved posture detection accuracy by 90% by developing a sensor-agnostic model for real-time lying posture detection, utilizing an Arduino with an embedded IMU sensor unit, resulting in more reliable and versatile posture monitoring across various user scenarios.
-* Enhanced machine learning model performance by 75% through collecting and processing diverse sensor data from 3-axis accelerometer, gyroscope and magnetometer for different postures, con structing a labeled dataset of over 10000 samples training a neural network architecture optimized for posture detection.
+* Enhanced machine learning model performance by 75% through collecting and processing diverse sensor data from the 3-axis accelerometer, gyroscope, and magnetometer for different postures, constructing a labeled dataset of over 10000 samples, training a neural network architecture optimized for posture detection.
 * Increased user engagement and real-time feedback by 80% by developing an interactive smartphone interface that communicates seamlessly with the microcontroller, enabling instant posture predictions and providing users with immediate, actionable insights on their lying posture.
 
 ### Edge Vision: User Defined Object-Counting
 
 *__Aug 2023 - Dec 2023__*
-* Improved real-time object recognition and tracking by 40% by developing an innovative object-counting system that merged Raspberru Pi-4 and Camera Module V2 capabilities with the Faster R-CNN RestNet-50 model, resulting in high-resolution detection in diverse environments,
+* Improved real-time object recognition and tracking by 40% by developing an innovative object-counting system that merged Raspberry Pi-4 and Camera Module V2 capabilities with the Faster R-CNN RestNet-50 model, resulting in high-resolution detection in diverse environments,
 * Increased versatility of object detection applications by 60% through integrating high-accuracy machine learning models with Raspberry Pi-4 enabling solutions for public safety and traffic monitoring across various scenarios.
 * Enhanced object detection system robustness by 50% by leveraging the Camera Module V2 for high-quality video data collection, resulting in a more reliable training dataset and improved performance in varied environmental conditions.
 * Validated system accuracy and reliability through extensive testing in diverse environments, achieving a 95% detection rate across different scenarios and confirming the solution’s solid performance and real-world applications.
