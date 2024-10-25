@@ -116,10 +116,10 @@
 
 *__Aug 2023 - December 2023__*
 
-●	This project pioneers a real time solution for bridging the communication gap between deaf and hearing communities through sign language detection and translation.
-●	Leveraging machine learning and computer vision, this system interprets live video feeds into written text.
-●	It utilizes camera feed, image processing algorithms and a Long Short-Term memory (LSTM) neural network to accurately capture and analyze dynamic hand gestures and movements.
-●	Implemented Long Short-Term Memory (LSTM) Neural Networks, resulting in a remarkable 50% improvement in model efficiency compared to traditional Neural Networks.
+* This project pioneers a real time solution for bridging the communication gap between deaf and hearing communities through sign language detection and translation.
+* Leveraging machine learning and computer vision, this system interprets live video feeds into written text.
+* It utilizes camera feed, image processing algorithms and a Long Short-Term memory (LSTM) neural network to accurately capture and analyze dynamic hand gestures and movements.
+* Implemented Long Short-Term Memory (LSTM) Neural Networks, resulting in a remarkable 50% improvement in model efficiency compared to traditional Neural Networks.
 
 
 ### Teach AI agents to play games using Reinforcement learning  
