@@ -37,6 +37,7 @@
 |-----:|-----------|
 |Frameworks|ROS, ROS2, TensorFlow, Pytorch,|
 |OS| Linux, Windows, iOS    |
+|HardWare|Arduino, RaspberryPi, JetsonNano, Eventcameras, Intensity cameras, Lidars|
 |Modeling and Analysis Software|CATIA, SolidWorks, Creo, AUTOCAD, ANSYS       |
 
 ## Work Experience
