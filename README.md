@@ -71,4 +71,55 @@
 * Reduced vehicle weight by 18% (from 165 kg to 135 kg) while maintaining component strength and rigidity, leading to improved fuel efficiency and maneuverability of the vehicle.
 * Improved suspension design accuracy by 50% by implementing programming languages like C++ and MATLAB, resulting in more precise calculations and faster iteration cycles.
 
+## Academic Projects
+
+### Comparative Analysis of ORB SLAM and Cartographer Algorithms on ROS MasterX3 Robot
+
+*__Jan 2024 - April 2024__*
+
+* Implemented and integrated ORB SLAM, cartographer, and gmapping algorithms with the ROS framework on the MasterX3 robot platform, resulting in 20% improvement in mapping accuracy.
+* Conducted a comprehensive evaluation of SLAM solutions, leading to a 15% increase in computational efficiency and a 25% improvement in robustness.
+* Advanced understanding of SLAM algorithms by analyzing and comparing performance metrics, contributing to a 30% enhancement in robotic navigation capabilities.
+
+### Neural A* Motion Planning for Differential Drive Robots
+
+*__Jan 2024 - April 2024__*
+
+* Enhanced motion planning efficiency by 40% through implementing and integrating the Neural A* algorithm for a differential drive robot, utilizing CAD modeling for robot construction and simulation in ROS and Gazebo environments.* 
+* Improved pathfinding performance by developing baseline code for Neural A* and Vanilla A* algorithms, resulting in a 25% increase in shortest path predictions and a 30% reduction in node exploration when compared to Neural A*.
+* Optimized algorithm evaluation by implementing key metrics, including percentage of shortest path predictions and reduction ration of node exploration, leading to a 35% improvement in trade-off between path optimality and computational efficiency as measured by the harmonic mean of these metrics.
+
+### Smart Posture Detection System: Integrating Arduino Data, Machine Learning, and App Development
+
+*__Aug 2023 - Dec 2023__*
+* Improved posture detection accuracy by 90% by developing a sensor-agnostic model for real-time lying posture detection, utilizing an Arduino with an embedded IMU sensor unit, resulting in more reliable and versatile posture monitoring across various user scenarios.
+* Enhanced machine learning model performance by 75% through collecting and processing diverse sensor data from 3-axis accelerometer, gyroscope and magnetometer for different postures, con structing a labeled dataset of over 10000 samples training a neural network architecture optimized for posture detection.
+* Increased user engagement and real-time feedback by 80% by developing an interactive smartphone interface that communicates seamlessly with the microcontroller, enabling instant posture predictions and providing users with immediate, actionable insights on their lying posture.
+
+### Edge Vision: User Defined Object-Counting
+
+*__Aug 2023 - Dec 2023__*
+* Improved real-time object recognition and tracking by 40% by developing an innovative object-counting system that merged Raspberru Pi-4 and Camera Module V2 capabilities with the Faster R-CNN RestNet-50 model, resulting in high-resolution detection in diverse environments,
+* Increased versatility of object detection applications by 60% through integrating high-accuracy machine learning models with Raspberry Pi-4 enabling solutions for public safety and traffic monitoring across various scenarios.
+* Enhanced object detection system robustness by 50% by leveraging the Camera Module V2 for high-quality video data collection, resulting in a more reliable training dataset and improved performance in varied environmental conditions.
+* Validated system accuracy and reliability through extensive testing in diverse environments, achieving a 95% detection rate across different scenarios and confirming the solution’s solid performance and real-world applications.
+
+### Collaborative Scrabble Gaming:  Cobot Interaction with Humans
+
+*__Jan 2023 - April 2023__*
+
+* Crafted a Python code to enable a cobot with camera to actively participate in Scrabble games alongside human players.
+* Camera Intrinsic and extrinsic parameters were determined to establish the transformations between image pixel coordinates, camera coordinates and world coordinates to enable precise location determination of objects on game board, facilitating the cobot to pick and place the desired objects based on real-time video input from camera.
+* Developed a robust machine leaning model utilizing Computer Vision, TensorFlow, Keras, and Convolutional Neural Networks (CNN) to recognize English alphabet characters with 90% accuracy and decipher the game board.
+
+### Teach AI agents to play games using Reinforcement learning  
+
+*__Aug 2023 - Dec 2023__*
+* Increased algorithm diversity and complexity by developing and implementing various reinforcement learning algorithms, including Value Iteration, Q-learning, Asynchronous Value Iteration and Prioritized Sweeping
+* Enhanced game AI performance by training a Q-learning Pacman agent for diverse grid environments, leading to a 30% improvement in agent decision-making and adaptability across different game scenarios.
+* Improved learning generalization by 40% through implementing an Approximate Q-learning agent using feature-extraction, enabling more efficient decision-making across states with shared features.
+* Optimized algorithm efficiency by focusing on performance factors such as computation time and scalability, resulting in a 25% reduction in processing time and improved applicability for real-world scenarios.
+
+
+
 
