@@ -94,8 +94,8 @@
 
 *__Jan 2024 - April 2024__*
 
-* Implementation and Integration: Implementing ORB SLAM Cartographer and gmapping Algorithms within ROS framework on the masterX3 robot platform.
-* Performance Evaluation: Conducting comprehensive evaluations to determine the superior SLAM solution by comparing mapping accuracy, computational efficiency, and robustness of ORB SLAM, Cartographer and gmapping Algorithms.
+* __Implementation and Integration__: Implementing ORB SLAM Cartographer and gmapping Algorithms within ROS framework on the masterX3 robot platform.
+* __Performance Evaluation__: Conducting comprehensive evaluations to determine the superior SLAM solution by comparing mapping accuracy, computational efficiency, and robustness of ORB SLAM, Cartographer and gmapping Algorithms.
 * Enhanced algorithm selection accuracy by comparing GMapping and Cartographer, revealing that GMapping performed 30% better in simpler environments, while Cartographer excelled by 40% in more complex scenarios, highlighting the trade-offs between simplicity and complexity in SLAM systems.
 
 
