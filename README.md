@@ -33,9 +33,9 @@
 
 ## Skills
 
-| Programming | Python, C++, JavaScript, HTML, CSS, MATLAB |
+| Programming languages | Python, C++, JavaScript, HTML, CSS, MATLAB |
 |-----:|-----------|
-|Frameworks|ROS, ROS2, TensorFlow, Pytorch,|
+|Frameworks|ROS, ROS2, TensorFlow, Pytorch,OpenCV|
 |OS| Linux, Windows, iOS    |
 |HardWare|Arduino, RaspberryPi, JetsonNano, Eventcameras, Intensity cameras, Lidars|
 |Modeling and Analysis Software|CATIA, SolidWorks, Creo, AUTOCAD, ANSYS       |
