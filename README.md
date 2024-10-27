@@ -103,8 +103,8 @@
 
 *__Jan 2024 - April 2024__*
 
-* **Implementation of Neural A* Algorithm**: Integrating Neural A* algorithm for motion planning in a differential drive robot, utilizing CAD modeling for robot construction and simulation in ROS and Gazebo environments
-* **Comparative Analysis with Traditional A* Algorithms**:Comparing the performance results of Neural A* with Vanilla A*in terms of percentage of shortest path predictions and reduction ratio of node exploration.
+* __Implementation of Neural A* Algorithm__: Integrating Neural A* algorithm for motion planning in a differential drive robot, utilizing CAD modeling for robot construction and simulation in ROS and Gazebo environments
+* __Comparative Analysis with Traditional A* Algorithms__:Comparing the performance results of Neural A* with Vanilla A*in terms of percentage of shortest path predictions and reduction ratio of node exploration.
 * Improved pathfinding efficiency by 35% through implanting Neural A* algorithm, resulting in a 40% reduction in node exploration, 30% increase in shortest path predictions, and 25% faster computation time compared to traditional Vanilla A* across all evaluation metrics
 
 
