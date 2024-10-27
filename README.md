@@ -50,13 +50,29 @@
 *  **HDR SLAM**: Developed a High Dynamic Range SLAM system utilizing event cameras, intensity cameras, and IMU sensors, improving localization and mapping capabilities in high dynamic scene areas by 30%.
 *  **Object Detection for ADAS**: Improved object detection accuracy for Advanced Driver Assistance Systems by 25% through the integration of event cameras and traditional cameras
 *  **Semantic Mapping with a moving sensor Rig**: Increased the accuracy and detail of semantic mapping by 40% by implementing event camera technology for moving sensor rigs.
+*  Developing an autonomous agent to control a virtual lunar robot for mapping the Moon's surface in a custom CARLA-based simulator.
+*  Implementing algorithms for efficient navigation, battery management, and terrain mapping within strict mission time and compute constraints.
+*  Optimizing agent performance to map a 27m x 27m area over a 24-hour simulated mission, managing sensor data from 8 cameras and an IMU.
+*  Utilizing Python to interface with the simulator API, process sensor inputs, and output control decisions for robot movement and component management.
+*  Collaborating in a competitive environment to improve mapping accuracy and mission efficiency as evaluated by the Leaderboard scoring system.
+
 
 ### Graduate Teaching Aide | _Department of Physics, Arizona State University, USA_
 
 *__Aug 2023 - Present__*
 
 * I teach Experimental Physics to undergraduate-level students, aiming to enhance their understanding of theoretical concepts by engaging them in hands-on experiments.
-* I facilitate interactive sessions wherein students articulate their queries, allowing me to address and resolve their academic concerns effectively.
+* I facilitate interactive sessions wherein students articulate their queries, allowing me to effectively address and resolve their academic concerns.
+
+### Executive Engineer | _PI Industries, India_
+
+*__Oct 2020 - April 2022__*
+
+* Ensuring the operational efficiency of utility systems, including boilers, vapor compression refrigeration units, nitrogen production plants, soft water plant, Demineralized Water Plant, Instrument Air Plant, Cooling towers
+* Innovating energy-saving initiatives through the development of strategic ideas
+* Proficiently update piping and instrumentation diagrams using AUTOCAD to enhance the precision of plant documentation.
+* Acquired expertise in identifying and resolving internal machinery issues within the industry.
+* Enforcing strict adherence to safety guidelines to uphold a secure working environment for all employees.
 
 ### Technical Head of Off-Road Racing Vehicle Manufacturing team | _National Institute of Technology Warangal, India_
 
@@ -87,8 +103,8 @@
 *__Jan 2024 - April 2024__*
 
 * Enhanced motion planning efficiency by 40% through implementing and integrating the Neural A* algorithm for a differential drive robot, utilizing CAD modeling for robot construction and simulation in ROS and Gazebo environments.* 
-* Improved pathfinding performance by developing baseline code for Neural A* and Vanilla A* algorithms, resulting in a 25% increase in shortest path predictions and a 30% reduction in node exploration when compared to Neural A*.
-* Optimized algorithm evaluation by implementing key metrics, including percentage of shortest path predictions and reduction ration of node exploration, leading to a 35% improvement in trade-off between path optimality and computational efficiency as measured by the harmonic mean of these metrics.
+* Improved pathfinding performance by developing baseline code for Neural A* and Vanilla A* algorithms, resulting in a 25% increase in shortest path predictions and a 30% reduction in node exploration compared to Neural A*.
+* Optimized algorithm evaluation by implementing key metrics, including the percentage of shortest path predictions and reduction ratio of node exploration, leading to a 35% improvement in the trade-off between path optimality and computational efficiency as measured by the harmonic mean of these metrics.
 
 ### Smart Posture Detection System: Integrating Arduino Data, Machine Learning, and App Development
 
