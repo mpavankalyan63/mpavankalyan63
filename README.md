@@ -94,17 +94,19 @@
 
 *__Jan 2024 - April 2024__*
 
-* Implemented and integrated ORB SLAM, cartographer, and gmapping algorithms with the ROS framework on the MasterX3 robot platform, resulting in 20% improvement in mapping accuracy.
-* Conducted a comprehensive evaluation of SLAM solutions, leading to a 15% increase in computational efficiency and a 25% improvement in robustness.
-* Advanced understanding of SLAM algorithms by analyzing and comparing performance metrics, contributing to a 30% enhancement in robotic navigation capabilities.
+* Implementation and Integration: Implementing ORB SLAM Cartographer and gmapping Algorithms within ROS framework on the masterX3 robot platform.
+* Performance Evaluation: Conducting comprehensive evaluations to determine the superior SLAM solution by comparing mapping accuracy, computational efficiency, and robustness of ORB SLAM, Cartographer and gmapping Algorithms.
+* Enhanced algorithm selection accuracy by comparing GMapping and Cartographer, revealing that GMapping performed 30% better in simpler environments, while Cartographer excelled by 40% in more complex scenarios, highlighting the trade-offs between simplicity and complexity in SLAM systems.
+
 
 ### Neural A* Motion Planning for Differential Drive Robots
 
 *__Jan 2024 - April 2024__*
 
-* Enhanced motion planning efficiency by 40% through implementing and integrating the Neural A* algorithm for a differential drive robot, utilizing CAD modeling for robot construction and simulation in ROS and Gazebo environments.* 
-* Improved pathfinding performance by developing baseline code for Neural A* and Vanilla A* algorithms, resulting in a 25% increase in shortest path predictions and a 30% reduction in node exploration compared to Neural A*.
-* Optimized algorithm evaluation by implementing key metrics, including the percentage of shortest path predictions and reduction ratio of node exploration, leading to a 35% improvement in the trade-off between path optimality and computational efficiency as measured by the harmonic mean of these metrics.
+* Implementation of Neural A* Algorithm: Integrating Neural A* algorithm for motion planning in a differential drive robot, utilizing CAD modeling for robot construction and simulation in ROS and Gazebo environments
+* Comparative Analysis with Traditional A* Algorithms:Comparing the performance results of Neural A* with Vanilla A*in terms of percentage of shortest path predictions and reduction ratio of node exploration.
+* Improved pathfinding efficiency by 35% through implanting Neural A* algorithm, resulting in a 40% reduction in node exploration, 30% increase in shortest path predictions, and 25% faster computation time compared to traditional Vanilla A* across all evaluation metrics
+
 
 ### Smart Posture Detection System: Integrating Arduino Data, Machine Learning, and App Development
 
