@@ -46,16 +46,10 @@
 
 *__May 2024 - Present__*
 
-*  Enhanced system performance by integrating event cameras with traditional cameras, resulting in improved accuracy and efficiency in various robotic tasks
 *  **HDR SLAM**: Developed a High Dynamic Range SLAM system utilizing event cameras, intensity cameras, and IMU sensors, improving localization and mapping capabilities in high dynamic scene areas by 30%.
-*  **Object Detection for ADAS**: Improved object detection accuracy for Advanced Driver Assistance Systems by 25% through the integration of event cameras and traditional cameras
-*  **Semantic Mapping with a moving sensor Rig**: Increased the accuracy and detail of semantic mapping by 40% by implementing event camera technology for moving sensor rigs.
-*  Developing an autonomous agent to control a virtual lunar robot for mapping the Moon's surface in a custom CARLA-based simulator.
-*  Implementing algorithms for efficient navigation, battery management, and terrain mapping within strict mission time and compute constraints.
-*  Optimizing agent performance to map a 27m x 27m area over a 24-hour simulated mission, managing sensor data from 8 cameras and an IMU.
-*  Utilizing Python to interface with the simulator API, process sensor inputs, and output control decisions for robot movement and component management.
-*  Collaborating in a competitive environment to improve mapping accuracy and mission efficiency as evaluated by the Leaderboard scoring system.
-
+*  Led my university team in Lunar Autonomy Challenge, where we developed an autonomous agent to navigate, map and analyze the lunar surface in a custom CARLA-based simulator.
+*  My team Lunar Explorers secured 3rd place in the first round of the challenge. We performed exceptionally in mapping productivity, localization and achieved 75.4% of the top team’s geometric map and rock map score.
+*  Currently assisting in the design and execution of the Space Robotics and AI course, which is being taught by the mentor, contributing to the development and delivery of engaging, high quality content.
 
 ### Graduate Teaching Aide | _Department of Physics, Arizona State University, USA_
 
