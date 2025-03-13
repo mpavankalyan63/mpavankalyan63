@@ -17,9 +17,9 @@
 
 - 💡 The Transition Probabilities of all human beings are almost the same, but the reward metric makes us who we are.
 
-* 🎓 I am currently pursuing my master's in Robotics and Autonomous Systems, Systems Engineering, from Arizona State University, and my bachelor's from National Institute of Technology Warangal.
+* 🎓 I completed my master's in Robotics and Autonomous Systems, Systems Engineering, from Arizona State University, and my bachelor's from National Institute of Technology Warangal.
 
-+ 🤖 I am working on High Dynamic Range SLAM, a SLAM algorithm that helps robots easily navigate high dynamic environments like the moon.
++ 🤖 I am currently working on Lunar Autonomy Challenge where we build an agent to map and navigate lunar surface in a custom CARLA simulator.
 
 * 👯  I’m looking forward to collaborating on innovative robotics projects and building a community that helps each other grow.
 
