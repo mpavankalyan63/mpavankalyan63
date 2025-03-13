@@ -88,8 +88,8 @@
 
 *__Jan 2024 - April 2024__*
 
-* __Implementation and Integration__: Implementing ORB SLAM Cartographer and gmapping Algorithms within ROS framework on the masterX3 robot platform.
-* __Performance Evaluation__: Conducting comprehensive evaluations to determine the superior SLAM solution by comparing mapping accuracy, computational efficiency, and robustness of ORB SLAM, Cartographer and gmapping Algorithms.
+* Implemented Cartographer and gmapping Algorithms within ROS framework on the masterX3 robot platform.
+* Conducted comprehensive evaluations to determine the superior SLAM solution by comparing mapping accuracy, computational efficiency, and robustness of Cartographer and gmapping Algorithms
 * Enhanced algorithm selection accuracy by comparing GMapping and Cartographer, revealing that GMapping performed 30% better in simpler environments, while Cartographer excelled by 40% in more complex scenarios, highlighting the trade-offs between simplicity and complexity in SLAM systems.
 
 
@@ -97,32 +97,31 @@
 
 *__Jan 2024 - April 2024__*
 
-* __Implementation of Neural A* Algorithm__: Integrating Neural A* algorithm for motion planning in a differential drive robot, utilizing CAD modeling for robot construction and simulation in ROS and Gazebo environments
-* __Comparative Analysis with Traditional A* Algorithms__:Comparing the performance results of Neural A* with Vanilla A*in terms of percentage of shortest path predictions and reduction ratio of node exploration.
-* Improved pathfinding efficiency by 35% through implanting Neural A* algorithm, resulting in a 40% reduction in node exploration, 30% increase in shortest path predictions, and 25% faster computation time compared to traditional Vanilla A* across all evaluation metrics
+* Integrated Neural A* algorithm for motion planning in a differential drive robot, utilizing CAD modeling for robot construction and simulation in ROS and Gazebo environments.
+* Compared the results of Neural A* with Vanilla A*in terms of percentage of shortest path predictions and ratio of node exploration.
+* Improved path-finding efficiency by 35% through implanting Neural A* algorithm, resulting in a 40% reduction in node exploration, 30% increase in shortest path predictions, and 25% faster computation time compared to Vanilla A*.
 
 
 ### Smart Posture Detection System: Integrating Arduino Data, Machine Learning, and App Development
 
 *__Aug 2023 - Dec 2023__*
-* Improved posture detection accuracy by 90% by developing a sensor-agnostic model for real-time lying posture detection, utilizing an Arduino with an embedded IMU sensor unit, resulting in more reliable and versatile posture monitoring across various user scenarios.
-* Enhanced machine learning model performance by 75% through collecting and processing diverse sensor data from the 3-axis accelerometer, gyroscope, and magnetometer for different postures, constructing a labeled dataset of over 10000 samples, training a neural network architecture optimized for posture detection.
-* Increased user engagement and real-time feedback by 80% by developing an interactive smartphone interface that communicates seamlessly with the microcontroller, enabling instant posture predictions and providing users with immediate, actionable insights on their lying posture.
+* Developed a sensor-agnostic model for real-time lying posture detection, utilizing an Arduino with an embedded IMU sensor unit, resulting in more reliable and versatile posture monitoring across various user scenarios.
+* Enhanced machine learning model performance by 75% through collecting and processing diverse sensor data from 3-axis accelerometer, gyroscope, and magnetometer for different postures.
+* Increased user engagement and real-time feedback by 80% by developing an interactive smartphone interface that communicates seamlessly with the microcontroller, enabling instant posture predictions and providing users with insights on their lying posture. 
 
 ### Edge Vision: User Defined Object-Counting
 
 *__Aug 2023 - Dec 2023__*
-* Improved real-time object recognition and tracking by 40% by developing an innovative object-counting system that merged Raspberry Pi-4 and Camera Module V2 capabilities with the Faster R-CNN RestNet-50 model, resulting in high-resolution detection in diverse environments,
-* Increased versatility of object detection applications by 60% through integrating high-accuracy machine learning models with Raspberry Pi-4 enabling solutions for public safety and traffic monitoring across various scenarios.
-* Enhanced object detection system robustness by 50% by leveraging the Camera Module V2 for high-quality video data collection, resulting in a more reliable training dataset and improved performance in varied environmental conditions.
+* Improved real-time object recognition and tracking by 40% by developing an innovative object-counting system that merged Raspberry Pi-4 and Camera Module V2 capabilities with the Faster R-CNN RestNet-50 model.
+* Increased versatility of object detection applications by 60% enabling solutions for public safety and traffic monitoring across various scenarios
 * Validated system accuracy and reliability through extensive testing in diverse environments, achieving a 95% detection rate across different scenarios and confirming the solution’s solid performance and real-world applications.
 
 ### Collaborative Scrabble Gaming:  Cobot Interaction with Humans
 
 *__Jan 2023 - April 2023__*
 
-* Crafted a Python code to enable a cobot with camera to actively participate in Scrabble games alongside human players.
-* Camera Intrinsic and extrinsic parameters were determined to establish the transformations between image pixel coordinates, camera coordinates and world coordinates to enable precise location determination of objects on game board, facilitating the cobot to pick and place the desired objects based on real-time video input from camera.
+* Enabled a cobot with a camera to autonomously compete against humans in Scrabble, enhancing interactive gameplay and automation.
+* Camera Intrinsic and extrinsic parameters were determined to establish the transformations between image pixel coordinates, camera coordinates and world coordinates to enable precise location determination of objects on game board, facilitating the cobot to pick and place the desired objects based on real-time video input from camera
 * Developed a robust machine leaning model utilizing Computer Vision, TensorFlow, Keras, and Convolutional Neural Networks (CNN) to recognize English alphabet characters with 90% accuracy and decipher the game board.
 
 ### Sign Language Detection
