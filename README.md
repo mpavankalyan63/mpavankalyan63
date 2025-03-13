@@ -137,8 +137,7 @@
 ### Teach AI agents to play games using Reinforcement learning  
 
 *__Aug 2023 - Dec 2023__*
-* Increased algorithm diversity and complexity by developing and implementing various reinforcement learning algorithms, including Value Iteration, Q-learning, Asynchronous Value Iteration and Prioritized Sweeping
-* Enhanced game AI performance by training a Q-learning Pacman agent for diverse grid environments, leading to a 30% improvement in agent decision-making and adaptability across different game scenarios.
+* Enhanced the performance of Pacman agent for diverse grid environments using Q learning, leading to a 30% improvement in agent decision-making in different game scenarios.
 * Improved learning generalization by 40% through implementing an Approximate Q-learning agent using feature-extraction, enabling more efficient decision-making across states with shared features.
 * Optimized algorithm efficiency by focusing on performance factors such as computation time and scalability, resulting in a 25% reduction in processing time and improved applicability for real-world scenarios.
 
