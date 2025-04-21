@@ -58,15 +58,6 @@
 * I teach Experimental Physics to undergraduate-level students, aiming to enhance their understanding of theoretical concepts by engaging them in hands-on experiments.
 * I facilitate interactive sessions wherein students articulate their queries, allowing me to effectively address and resolve their academic concerns.
 
-### Executive Engineer | _PI Industries, India_
-
-*__Oct 2020 - April 2022__*
-
-* Ensuring the operational efficiency of utility systems, including boilers, vapor compression refrigeration units, nitrogen production plants, soft water plant, Demineralized Water Plant, Instrument Air Plant, Cooling towers
-* Innovating energy-saving initiatives through the development of strategic ideas
-* Proficiently update piping and instrumentation diagrams using AUTOCAD to enhance the precision of plant documentation.
-* Acquired expertise in identifying and resolving internal machinery issues within the industry.
-* Enforcing strict adherence to safety guidelines to uphold a secure working environment for all employees.
 
 ### Technical Head of Off-Road Racing Vehicle Manufacturing team | _National Institute of Technology Warangal, India_
 
