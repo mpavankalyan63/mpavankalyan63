@@ -51,6 +51,19 @@
 *  My team Lunar Explorers secured 3rd place in the first round of the challenge. We performed exceptionally in mapping productivity, localization and achieved 75.4% of the top team’s geometric map and rock map score.
 *  Currently assisting in the design and execution of the Space Robotics and AI course, which is being taught by the mentor, contributing to the development and delivery of engaging, high quality content.
 
+### Robotic Software Engineer | HC Robotics
+
+*__Oct 2019- December 2022__*
+
+* Integrated computer vision systems for obstacle detection in UAVs using LiDAR and OpenCV stereo cameras, successfully preventing 15 potential collisions and ensuring safe navigation during flight missions.
+* Engineered an advanced algorithm for precise target coordinate determination using a gimbal camera, significantly improving UAV target identification and tracking accuracy by 25%.
+* Improved a highly accurate precision landing system using stereo cameras and AprilTag detection for the ArduPilot Flight Stack, achieving landings with an average error rate of less than 5 cm, ensuring safe landing.
+* Developed an advanced person-tracking system using a Gremsy gimbal camera, significantly enhancing surveillance accuracy and boosting operational efficiency by 25%, enabling more effective monitoring.
+* Enhanced localization and navigation accuracy by 20% through sensor fusion of visual odometry from OpenCv stereo cameras and IMU data using Extended Kalman filter, integrated within ROS and PX4 via the MAVLink communication protocol for robust UAV performance.
+* Supervised the assembly of 50 drones, conducted through pre-flight checks, expertly piloted drones during 100+ test flights, meticulously analyzed flight logs, and necessary adjustments and enhancements to improve overall drone performance and reliability.
+* Performed frame extraction and data cleaning on 500+ hours of video for person detection. Boosting model accuracy by 20%. Utilized CVAT for labelling 10,000+ frames with bounding boxes and polygons, contributing to a 25% improvement in model performance.
+
+
 ### Graduate Teaching Aide | _Department of Physics, Arizona State University, USA_
 
 *__Aug 2023 - Present__*
